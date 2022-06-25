@@ -1,6 +1,6 @@
 # My_Sokoban
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](http://forthebadge.com)  [![linkedin-](https://user-images.githubusercontent.com/91087072/175767199-5ecadc72-20a2-42dc-a24f-3a601bba5ddb.svg)](https://www.linkedin.com/in/gaetan-darrort/)
 
 Sokoban alias garde d'entrepôt
 
@@ -24,7 +24,7 @@ Pour lancer le jeu, il vous faudra
 
 Une map qui devra ressembler a quelque chose de semblable :
 
-[![sokoban_command](https://raw.githubusercontent.com/EpitechPromo2026/B-PSU-200-MPL-2-1-mysokoban-gaetan.darrort/master/.readme/sokoban_map.PNG?token=GHSAT0AAAAAABT7WVMVAQXL4OJQXYYJOQDGYVWZIZQ)](https://raw.githubusercontent.com/EpitechPromo2026/B-PSU-200-MPL-2-1-mysokoban-gaetan.darrort/master/.readme/sokoban_map.PNG?token=GHSAT0AAAAAABT7WVMVAQXL4OJQXYYJOQDGYVWZIZQ)
+[![sokoban_command](https://user-images.githubusercontent.com/91087072/175766427-aa2ab1ad-28ad-422f-af8a-d658205d608a.PNG)](https://user-images.githubusercontent.com/91087072/175766427-aa2ab1ad-28ad-422f-af8a-d658205d608a.PNG)
 
 Une fois que vous avez la map, il vous suffit de compiler le programme avec la commande "make".
 
@@ -34,7 +34,7 @@ Lancer ensuite le binaire suivi du chemin d'accès de votre map comme ceci :
 
 Une fois le programme lancé, vous pouvez commencer à jouer.
 
-[![sokoban_map](https://raw.githubusercontent.com/EpitechPromo2026/B-PSU-200-MPL-2-1-mysokoban-gaetan.darrort/master/.readme/sokoban_game.png?token=GHSAT0AAAAAABT7WVMVZDHMT2V5TAMAEC42YVWZH5Q)](https://raw.githubusercontent.com/EpitechPromo2026/B-PSU-200-MPL-2-1-mysokoban-gaetan.darrort/master/.readme/sokoban_game.png?token=GHSAT0AAAAAABT7WVMVZDHMT2V5TAMAEC42YVWZH5Q)
+[![sokoban_map](https://user-images.githubusercontent.com/91087072/175766426-f4a858c0-89b2-42fa-a6d1-75420c887784.png)](https://user-images.githubusercontent.com/91087072/175766426-f4a858c0-89b2-42fa-a6d1-75420c887784.png)
 
 ## Touches
 
