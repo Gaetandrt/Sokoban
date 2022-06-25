@@ -30,7 +30,7 @@ Une fois que vous avez la map, il vous suffit de compiler le programme avec la c
 
 Lancer ensuite le binaire suivi du chemin d'accès de votre map comme ceci :
 
-[![sokoban_command](https://raw.githubusercontent.com/EpitechPromo2026/B-PSU-200-MPL-2-1-mysokoban-gaetan.darrort/master/.readme/sokoban_command.png?token=GHSAT0AAAAAABT7WVMU6HUBQZ4GXT5ALJPSYVWZHFQ)](https://raw.githubusercontent.com/EpitechPromo2026/B-PSU-200-MPL-2-1-mysokoban-gaetan.darrort/master/.readme/sokoban_command.png?token=GHSAT0AAAAAABT7WVMU6HUBQZ4GXT5ALJPSYVWZHFQ)
+[![sokoban_command](https://user-images.githubusercontent.com/91087072/175766428-a4d46fbe-8f9a-41fa-be6d-db907cdd8c66.png)](https://user-images.githubusercontent.com/91087072/175766428-a4d46fbe-8f9a-41fa-be6d-db907cdd8c66.png)
 
 Une fois le programme lancé, vous pouvez commencer à jouer.
 
